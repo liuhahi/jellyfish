@@ -1,2 +1,5 @@
 # jellyfish
-My Personal gif
+
+![Jellyfish GIF](jellyfish.gif)
+
+
